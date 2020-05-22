@@ -1,0 +1,24 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "expo": "~37.0.9",
+    "react": "~16.13.1",
+    "react-dom": "~16.13.1",
+    "react-native": "0.62",
+    "react-native-web": "~0.12.2",
+    "aws-amplify": "^3.0.11",
+    "aws-amplify-react-native": "^4.1.2"
+  },
+  "devDependencies": {
+    "babel-preset-expo": "~8.1.0",
+    "@babel/core": "^7.8.6"
+  },
+  "private": true
+}
