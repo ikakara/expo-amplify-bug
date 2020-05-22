@@ -1,5 +1,10 @@
 # Expo Amplify broken using latest react-native-web
 
+**Filed 2 bugs:**
+
+<https://github.com/aws-amplify/amplify-js/issues/5865>
+<https://github.com/react-native-elements/react-native-elements/issues/2368>
+
 ## Broken using "react-native-web": "~0.12.2"
 
 `Failed to compile
