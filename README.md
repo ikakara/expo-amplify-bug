@@ -1,10 +1,14 @@
 # Expo Amplify broken using latest react-native-web
 
-**Filed 2 bugs:**
+aws-amplify-react-native@4.2.0 (latest) depends on react-native-elements@0.19.1 which is breaks using react-native-web.  react-native-elements@2.0.1 fixes the problem.  Now we need an update of aws-amplify-react-native using react-native-elements@2.0.1 or later.
 
-<https://github.com/aws-amplify/amplify-js/issues/5865>
+**Filed 3 bugs:**
 
-<https://github.com/react-native-elements/react-native-elements/issues/2368>
+<https://github.com/aws-amplify/amplify-js/issues/5957>
+
+Closed - <https://github.com/aws-amplify/amplify-js/issues/5865>
+
+Closed - <https://github.com/react-native-elements/react-native-elements/issues/2368>
 
 ## Broken using "react-native-web": "~0.12.2"
 
