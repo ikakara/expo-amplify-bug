@@ -13,7 +13,7 @@
     "react": "~16.13.1",
     "react-dom": "~16.13.1",
     "react-native": "0.62",
-    "react-native-web": "~0.12.3",
+    "react-native-web": "~0.13.1",
     "react-native-elements": "^2.0.1",
     "aws-amplify": "^3.0.11",
     "aws-amplify-react-native": "^4.2.1"

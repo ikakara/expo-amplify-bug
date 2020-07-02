@@ -10,7 +10,7 @@ Closed - <https://github.com/aws-amplify/amplify-js/issues/5865>
 
 Closed - <https://github.com/react-native-elements/react-native-elements/issues/2368>
 
-## Broken using "react-native-web": "~0.12.3"
+## Broken using "react-native-web": "~0.13.1"
 
 `Failed to compile D:/dev0/amplify-experiment/expo-amplify/node_modules/react-native-elements/src/config/ViewPropTypes.js Module not found: Can't resolve 'react-native-web/dist/exports/ViewPropTypes' in 'D:\dev0\amplify-experiment\expo-amplify\node_modules\react-native-elements\src\config'`
 
